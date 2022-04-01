@@ -1,0 +1,13 @@
+td button{width:100%}
+
+table{
+    text-align: center;
+    margin:auto;
+    margin-top:50px;
+    background-color: black;
+}
+
+.green{
+    background-color: lightgreen;
+}
+
